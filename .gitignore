@@ -1,0 +1,3 @@
+/node_modules
+*.js
+!1.httpModule.js
